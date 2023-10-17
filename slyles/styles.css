@@ -134,5 +134,6 @@ body {
         }
     .apresentacao__conteudo{
         width: auto;
+        justify-content: center;
     }
  }
