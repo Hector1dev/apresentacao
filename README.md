@@ -14,5 +14,5 @@
 
 ### Hector Rocha
 
-### Linkedin: [https://www.linkedin.com/in/hectorrochaa/
+### Linkedin: [https://www.linkedin.com/in/hectorrochaa/]
 ```
