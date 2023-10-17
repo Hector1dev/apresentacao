@@ -12,8 +12,7 @@
 
 ## Feito por:
 
-### Joana Santos
+### Hector Rocha
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
+### Linkedin: [https://www.linkedin.com/in/hectorrochaa/
 ```
